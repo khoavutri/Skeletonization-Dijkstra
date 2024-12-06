@@ -1,4 +1,4 @@
-# 🚀 My Amazing Product
+# 🚀 [Skeletonizationdijkstra - Demo link](https://khoavutri.github.io/skeletonization-dijkstra/)
 
 📦 **Owned by:** [Vu Tri Khoa](https://github.com/khoavutri)(https://gitlab.com/khoavip07)
 
@@ -14,7 +14,7 @@
 
 ```bash
 # Clone the repository
-git clone https://gitlab.com/khoavip07/webpack-base.git
+git clone https://github.com/khoavutri/skeletonization-dijkstra.git
 
 # Install dependencies
 npm install
