@@ -1,4 +1,4 @@
-# 🚀 [Skeletonization dijkstra - Demo link](https://khoavutri.github.io/skeletonization-dijkstra/)
+# 🚀 [Skeletonization dijkstra - Demo link](https://khoavutri.github.io/skeletonization-dijkstra/)(https://khoavutri.github.io/skeletonization-dijkstra)
 
 📦 **Owned by:** [Vu Tri Khoa](https://github.com/khoavutri)(https://gitlab.com/khoavip07)
 
