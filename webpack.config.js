@@ -19,6 +19,9 @@ const baseConfig = (isProduction) => {
       clean: true,
       devtoolModuleFilenameTemplate: "[absolute-resource-path]",
     },
+    performance: {
+      hints: false,
+    },
     module: {
       rules: [
         {
